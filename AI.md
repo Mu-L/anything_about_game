@@ -91,11 +91,12 @@
 
 
 
-### Nano
+### Gemini
 
 - https://github.com/PicoTrex/Awesome-Nano-Banana-images
 - https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation
 - https://github.com/gemini-cli-extensions/nanobanana
+- https://voyager.nagi.fun/
 
 ## ComfyUI
 
@@ -434,6 +435,7 @@
 - https://github.com/nyldn/claude-octopus
 - https://github.com/covibes/zeroshot
 - https://github.com/talkcody/talkcody
+- https://github.com/GuDaStudio/commands
 ## Ai-Studio
 - https://github.com/Lianues/AIStudioBuildCopy
  

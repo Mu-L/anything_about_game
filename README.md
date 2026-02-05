@@ -2521,7 +2521,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [Frent](https://github.com/itsBuggingMe/Frent) A high performance component oriented take on ECS.
 - [massive-ecs](https://github.com/nilpunch/massive-ecs) Prediction-rollback netcode has very stable nature, and is mainly used in fast paced online multiplayer games, such as Overwatch and Rocket League.
 - [DragonECS](https://github.com/DCFApixels/DragonECS) C# Entity Component System framework
-- [Friflo](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) fastest
+- [friflo ECS](https://github.com/friflo/Friflo.Engine.ECS) fastest
 - [fennecs](https://github.com/thygrrr/fennecs) ...the tiny, tiny, high-energy Entity-Component System!
 - [ME.BECS](https://github.com/chromealex/ME.BECS) Bursted Entity Component System
 - [Entitas](https://github.com/sschmid/Entitas) Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity

@@ -18,7 +18,6 @@
 - [ai-game-development-tools](https://github.com/Yuan-ManX/ai-game-development-tools)
 - [StableHoudini](https://github.com/stassius/StableHoudini)
 - [chatgpt-guide](https://github.com/Daotin/chatgpt-guide)
-- [UnityInvokeAI](https://github.com/unitycoder/UnityInvokeAI)
 - [awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)
 - [awesome-ai-art](https://github.com/jonathandinu/awesome-ai-art)
 - [最大的 AI 工具目录库](https://zhuanlan.zhihu.com/p/593615901)
@@ -30,8 +29,6 @@
 - https://github.com/3DFaceBody/awesome-3dbody-papers
 - https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image
 - https://github.com/gongminmin/awesome-aigc
-- https://github.com/dobrado76/Stable-Diffusion-Unity-Integration
-- https://github.com/mochi-neko/ChatGPT-API-unity
 - http://www.aiyjs.com/
 - https://github.com/sudoskys/StableDiffusionBook
 - [Stable-diffusion-person](https://github.com/KKGo1999/Stable-diffusion-person) 由基于Stable-diffusion的Chilloutmix模型生成高清真实的人像
@@ -110,7 +107,6 @@
 - https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery
 - https://github.com/Comfy-Org/comfy-cli
 - https://github.com/aiaiaikkk/ComfyUI-Curve
-- https://github.com/stavrosdidakis/Unity-ComfyUI
 
 ## ML
 
@@ -128,8 +124,8 @@
 
 - https://github.com/tghamm/Anthropic.SDK
 - https://github.com/ThinkInAIXYZ/deepchat
-
-
+- https://github.com/HKUDS/MoChat
+- https://github.com/bytebot-ai/bytebot
 
 
 #### PDF
@@ -188,7 +184,7 @@
 - https://github.com/pietrozullo/mcp-use
 - https://github.com/nuskey8/McpToolkit
 
-### Unity
+## Unity
 
 - https://github.com/nasimali5/mcpup
 - https://github.com/Arodoid/UnityMCP
@@ -197,6 +193,11 @@
 - https://github.com/VR-Jobs/UnityMCPbeta
 - https://github.com/IvanMurzak/Unity-MCP
 - https://github.com/hatayama/uLoopMCP
+- https://github.com/Besty0728/Unity-Skills
+- https://github.com/stavrosdidakis/Unity-ComfyUI
+- https://github.com/dobrado76/Stable-Diffusion-Unity-Integration
+- https://github.com/mochi-neko/ChatGPT-API-unity
+- [UnityInvokeAI](https://github.com/unitycoder/UnityInvokeAI)
 
 ### web
 
@@ -275,7 +276,7 @@
 - https://github.com/stepfun-ai/gelab-zero
 - https://github.com/TencentCloudADP/youtu-agent
 - https://github.com/ashishpatel26/500-AI-Agents-Projects
-- [rowboat](https://github.com/rowboatlabs/rowboat) AI-powered multi-agent builder
+- [rowboat](https://github.com/rowboatlabs/rowboat) Open-source AI coworker, with memory
 - https://github.com/evalstate/fast-agent
 - https://github.com/langchain-ai/open-agent-platform 集成了RAG、MCP的多智能体无代码构建工具：open-agent-platform，图形化操作，适合无编程快速原型
 - https://github.com/The-Pocket/PocketFlow
@@ -296,6 +297,7 @@
 - https://github.com/jarrycyx/openlens-ai
 - https://github.com/mastra-ai/mastra
 - https://github.com/block/goose
+- [AnyTool](https://github.com/HKUDS/AnyTool) AnyTool: Universal Tool-Use Layer for AI Agents
 
 ### Platform
 - https://github.com/enricoros/big-AGI
@@ -306,7 +308,6 @@
 - https://github.com/hexdocom/lemonai
 - https://github.com/camel-ai/owl
 - https://github.com/Fosowl/agenticSeek
-- https://github.com/bytebot-ai/bytebot
 - https://github.com/Tongyi-MAI/MAI-UI
 
 ### Code-Ide
@@ -331,6 +332,12 @@
 - https://github.com/BerriAI/litellm
 
 ## RAG
+- https://github.com/volcengine/OpenViking OpenViking: The Context Database for AI Agents
+- https://github.com/AVIDS2/memorix Cross-Agent Memory Bridge — Your AI never forgets again
+- [mem.net](https://github.com/TianqiZhang/mem.net) About
+File-first memory infrastructure for AI agents, built with .NET 8 and Azure backends
+- https://github.com/jzOcb/ai-agent-memory File-based memory system for AI Agents with automatic TTL, LLM compression, and multi-agent sharing
+- https://github.com/kreuzberg-dev/kreuzberg
 - https://github.com/memovai/memov
 - https://github.com/EverMind-AI/EverMemOS/
 - https://github.com/HKUDS/RAG-Anything
@@ -346,7 +353,11 @@
 - https://rag.deeptoai.com/
 - https://www.zdoc.app/zh/cocoindex-io/cocoindex
 - https://github.com/OpenBMB/UltraRAG/
-
+- https://github.com/jzOcb/openclaw-memory-management/ AI Agent 记忆管理系统：P0/P1/P2 优先级 + 自动归档，Token 降 78%
+- https://github.com/VectifyAI/PageIndex PageIndex: Document Index for Vectorless, Reasoning-based RAG
+- https://github.com/tobi/qmd mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
+- https://github.com/toby-bridges/epro-memory LLM-powered agent memory plugin with 6-category classification and L0/L1/L2 tiered structure
+- https://github.com/zilliztech/memsearch A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.
 ### Local LLM
 
 - https://github.com/vllm-project/vllm
@@ -389,6 +400,8 @@
 - https://github.com/EveryInc/compound-engineering-plugin
 - https://github.com/Dev-GOM/claude-code-marketplace
 - https://github.com/affaan-m/everything-claude-code
+- https://github.com/supermemoryai/claude-supermemory
+- https://github.com/thedotmack/claude-mem
 
 
 ## Agent-Format
@@ -407,6 +420,7 @@
 - https://claudemarketplaces.com 
 - https://github.com/GuDaStudio/skills
 - https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+- https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering
 ## AI-Coding-Agent
 - https://www.codebuff.com/
 - https://github.com/sst/opencode
@@ -417,10 +431,10 @@
 - https://github.com/ConardLi/easy-llm-cli
 - https://conductor.build/
 - https://github.com/tukuaiai/vibe-coding-cn
-- https://github.com/badlogic/pi-mono
 - [用第一性原理拆解 Agentic Coding：从理论到实操](https://mp.weixin.qq.com/s/Zlwn42KyfjgwfX6lp-JthQ) 
+- [Awesome-Self-Evolving-Agents](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents)
   
-## Multi-Agent-Coding 
+## Coding-Agent-Orchestrator
 - https://github.com/DeepMyst/Mysti
 - https://github.com/moazbuilds/CodeMachine-CLI
 - https://github.com/fengshao1227/ccg-workflow Claude + Codex + Gemini 多模型协作系统
@@ -436,6 +450,11 @@
 - https://github.com/covibes/zeroshot
 - https://github.com/talkcody/talkcody
 - https://github.com/GuDaStudio/commands
+- https://github.com/pedramamini/Maestro
+- https://github.com/zhukunpenglinyutong/codemoss
+- https://github.com/ChesterRa/cccc
+- https://github.com/The-Vibe-Company/companion
+- https://github.com/ComposioHQ/agent-orchestrator
 ## Ai-Studio
 - https://github.com/Lianues/AIStudioBuildCopy
  
@@ -446,14 +465,20 @@
 - https://github.com/steveyegge/beads
 - https://github.com/Fission-AI/OpenSpec
 - https://github.com/github/spec-kit
+- https://github.com/dcramer/dex
+- https://github.com/BradGroux/veritas-kanban
 - [团队落地 AI 辅助编程和 AI Specs 实战](https://www.cnblogs.com/whuanle/p/19469026)
 - [认知重建：Speckit 用了三个月，我放弃了——走出工具很强但用不好的困境](https://www.bestblogs.dev/en/article/0f05763c)
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files)
 - [superpowers](https://github.com/obra/superpowers)
+- https://github.com/gsd-build/get-shit-done
 - https://github.com/subsy/ralph-tui
+- https://github.com/snwfdhmp/awesome-ralph
 - https://github.com/mikeyobrien/ralph-orchestrator
 - https://github.com/strands-agents/agent-sop
 - https://github.com/ClaytonFarr/ralph-playbook
+- https://github.com/mindfold-ai/Trellis
+- https://github.com/EveryInc/compound-engineering-plugin/
 
 ## LLM
 - https://github.com/liguodongiot/llm-resource
@@ -503,6 +528,7 @@
 - https://github.com/lintsinghua/XCodeReviewer
 - https://d.aigclink.ai/OpenAI-Aardvark-GPT-5-29a9857c0f478078b391d41096db2067
 - https://github.com/lintsinghua/DeepAudit
+- https://github.com/Iski08/dotclaude/
 
 ## Translate
 
@@ -538,10 +564,11 @@
 - https://github.com/airweave-ai/airweave
 - https://www.camel-ai.org/blogs/brainwash-your-agent-how-we-keep-the-memory-clean
 - https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering
+- https://github.com/NeoLabHQ/context-engineering-kit
  
-### AI-Context
+### Codebase
+- https://github.com/microsoft/skills/blob/main/.github/plugins/deep-wiki/
 - https://github.com/nguyenphutrong/agentlens
-- https://github.com/inngest/inngest
 - https://deepwiki.com/
 - https://github.com/AsyncFuncAI/deepwiki-open
 - https://github.com/AIDotNet/OpenDeepWiki
@@ -554,13 +581,53 @@
 - https://github.com/Ryandonofrio3/osgrep
 - https://github.com/Rika-Labs/sgrep
 - https://github.com/mixedbread-ai/mgrep
+- https://github.com/AZidan/codemap
+- https://github.com/yoanbernabeu/grepai
+- https://github.com/HKUDS/FastCode FastCode: Accelerating and Streamlining Your Code Understanding
+- https://github.com/dadbodgeoff/drift Codebase intelligence for AI. Detects patterns & conventions + remembers decisions across sessions. MCP server for any IDE. Offline CLI.\
+- https://github.com/abhigyanpatwari/GitNexus Indexes any codebase into a knowledge graph 
+- [arscontexta](https://github.com/agenticnotetaking/arscontexta) A Claude Code plugin that generates complete knowledge systems from conversation
 
+### WorkFlow
+- https://github.com/inngest/inngest
+ 
 ## UI
 - https://github.com/CopilotKit/CopilotKit
 
-## PPT
-- https://github.com/Anionex/banana-slides
+
 
 ## WEB-UI
 - https://saaslandingpage.com/
 - https://www.pencil.dev/
+
+
+## Platform
+- https://github.com/lioensky/VCPToolBox 强大的AI-API-工具交互范式AGI社群系统
+- https://github.com/latitude-dev/latitude-llm Latitude is an open-source platform for building and operating LLM features in production.
+
+## OpenClaw
+- https://github.com/VoltAgent/awesome-openclaw-skills
+- https://github.com/hesamsheikh/awesome-openclaw-usecases
+- https://openclaw-docs.dx3n.cn/
+- https://github.com/mengjian-github/openclaw101 从零开始，7天掌握你的AI私人助理 | 全网资源聚合站
+
+### Claws
+- https://openclaw-forks-evaluation-report-2026.versun.me/
+- https://github.com/spacedriveapp/spacebot An AI agent for teams, communities, and multi-user environments.
+## Visual-Enhance
+- https://github.com/nicobailon/visual-explainer
+- https://github.com/ChristopherLyon/graphrag-workbench
+
+## PI
+- https://github.com/badlogic/pi-mono AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- https://github.com/qualisero/awesome-pi-agent
+- https://github.com/nicobailon/pi-subagents
+- https://github.com/nicobailon/pi-interactive-shell
+- https://github.com/nicobailon/pi-messenger
+
+## AutoTest
+- https://midscenejs.com/
+
+## ai-ui
+- https://github.com/BIT-DataLab/Edit-Banana
+- https://github.com/Anionex/banana-slides ppt

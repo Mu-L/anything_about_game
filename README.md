@@ -1438,6 +1438,7 @@ Table of Contents
 #### Animation-Controller
 - [targetwarp-motion-warping](https://assetstore.unity.com/packages/tools/animation/targetwarp-motion-warping-314335?aid=1100lpo99)
 - [character-animation-system](https://assetstore.unity.com/packages/tools/animation/character-animation-system-320309)
+- [easyanim-simplified-animation-management](https://assetstore.unity.com/packages/tools/animation/easyanim-simplified-animation-management-342220)
 - https://github.com/hiroki-o/VoxBlend unity  表情
 - https://github.com/rurre/PumkinsAvatarTools unity 表情
 - https://github.com/huailiang/knead_proj unity  捏脸
@@ -1922,6 +1923,7 @@ Table of Contents
 - [flaclibsharp](https://github.com/AaronLenoir/flaclibsharp)
 - [CathodeLib](https://github.com/OpenCAGE/CathodeLib) Functionality to parse and write various formats from the Cathode engine, used for modding Alien: Isolation.
 - [WinAVFS](https://github.com/DeepAQ/WinAVFS)
+- https://github.com/penspanic/Datra
 
 #### Common-Compression
 - https://github.com/mjebrahimi/EasyCompressor
@@ -2077,6 +2079,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://getfresh.dev/
 - https://nicegui.io/
 - https://ratatui.rs/
+- https://github.com/EnhancedJax/Bagels
 ## Game-Server-framework
 - https://github.com/Quaint-Studios/
 - https://github.com/moke-game/platform
@@ -4635,6 +4638,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/GarrettGunnell/AcerolaFX
 - https://github.com/NullTale/VhsFx
 - https://github.com/NullTale/VolFx
+- [高质量 Bloom 算法分析以及在 URP 中的实现](https://zhuanlan.zhihu.com/p/1940476318576784470)
 - [Anime-Speed-Lines](https://github.com/MirzaBeig/Anime-Speed-Lines) Post-processing effect to procedurally generate a anime/manga-style vignette of lines typically used to portray speed or surprise.
 - [LUTS](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 - [cavifree](Screen space shader for Unity resembling the "cavity" effect in Blender)
@@ -5172,6 +5176,7 @@ Showing off the power of shader properties in Unity
 - https://www.zhihu.com/search?q=renderdoc%20unity&range=3m&type=content
 #### AssetBundle
 - [UnityDataTools](https://github.com/Unity-Technologies/UnityDataTools)
+- https://github.com/XD-MHLOO/Osintgraph
 - [Locus-Bundle-System](https://github.com/locus84/Locus-Bundle-System) Simple Unity Addressables Alternative That Supports Synchronized API 
 - [UnityAutoBundles](https://github.com/perholmes/UnityAutoBundles) Extension to Unity Engine's Addressables for making it easier to distribute large projects and keep mobile download size small.
 - [xasset](https://github.com/xasset/xasset) Fast & powerful, asset system for unity. 
@@ -5313,6 +5318,7 @@ Showing off the power of shader properties in Unity
 
 ### Skill
 - https://github.com/lsunky/SkillEditorDemo
+- https://github.com/XH-Unity/XHFrameworkSkill
 - [combateditor-252420](https://assetstore.unity.com/packages/tools/animation/combateditor-252420) unity-plugin
 - [animation-composer-system](https://assetstore.unity.com/packages/tools/animation/animation-composer-system-acs-348598)
 - https://github.com/Mr-sB/ACTSkill
@@ -5778,6 +5784,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/apkd/UnityDemystifier
 - https://github.com/Sergio0694/PolySharp
 - https://github.com/apkd/Medicine
+- https://github.com/Katsuya100/AspectForUnity
 
 #### Csharp-debug
 - https://github.com/MattParkerDev/sharpdbg

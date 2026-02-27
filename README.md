@@ -6382,8 +6382,9 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://zhuanlan.zhihu.com/p/34213415
 - [有哪些非游戏领域的书籍读后有利于显著提升游戏策划和设计水平](https://www.zhihu.com/question/36162464)
 - [国外游戏理论研究的前沿都在研究什么？](https://www.zhihu.com/question/50253977/answer/120147034)
- 
-
+- [暴雪Blizzard的游戏设计原则](https://zhuanlan.zhihu.com/p/2008122054034093373) 
+- [Raph Koster：游戏设计其实很简单（2025）](https://zhuanlan.zhihu.com/p/2002103577703899774)
+- [Game Design Assistant](https://gist.github.com/OrangeViolin/53ad898cdbc8734d8bb5c6a6ddf5cec4)
 #### 镜头设计
 - https://www.zhihu.com/people/cptz-23
 - https://zhuanlan.zhihu.com/p/138144313 

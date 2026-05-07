@@ -45,6 +45,7 @@
 
 ## Prompt
 - https://github.com/sanyuan0704/sanyuan-skills
+- https://github.com/yaojingang/yao-open-prompts
 - https://baoyu.io/blog/google-prompt-engineering-whitepaper
 - https://claude.com/blog/best-practices-for-prompt-engineering
 - https://github.com/adithya-s-k/AI-Engineering.academy Mastering Applied AI, One Concept at a Time
@@ -196,6 +197,7 @@
 - https://github.com/0x0funky/agent-sprite-forge Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts
 
 ## Unity
+- https://github.com/r1n7aro/Locus Locus for Unity is an open-source AI Agent for Unity projects.
 - https://github.com/nasimali5/mcpup
 - https://github.com/Arodoid/UnityMCP
 - https://github.com/CoderGamester/mcp-unity
@@ -257,10 +259,8 @@
 - https://github.com/PsychArch/minimax-mcp-tools
 
 #### DataBase
-- https://github.com/StarRocks/mcp-server-starrocks
-- https://github.com/googleapis/genai-toolbox
 - https://github.com/orneryd/NornicDB NornicDB is a high-performance graph + vector database built for AI agents and knowledge systems. It speaks Neo4j's (Bolt + Cypher) and qdrant's (gRPC) languages so you can use Nornic with zero code changes, while adding intelligent features including a graphql endpoint, air-gapped embeddings, GPU accelerated search, and other intelligent features
-- https://github.com/MarchLiu/hypatia "We can wander through the stacks of the Library of Alexandria, imagining the scrolls and the knowledge they contain. Its destruction is a warning: all we have is transient.”--Alberto Manguel
+
 ### Jupyter
 - https://github.com/datalayer/jupyter-mcp-server
 
@@ -322,6 +322,7 @@
 - https://github.com/mastra-ai/mastra
 - https://github.com/block/goose
 - [AnyTool](https://github.com/HKUDS/AnyTool) AnyTool: Universal Tool-Use Layer for AI Agents
+- [composio](https://github.com/warpdot-dev/composio) typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers
 - https://github.com/wangziqi06/724-office 7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production
 
 
@@ -356,6 +357,8 @@
 - https://github.com/BerriAI/litellm
 
 ## Memory
+- https://github.com/MarchLiu/hypatia "We can wander through the stacks of the Library of Alexandria, imagining the scrolls and the knowledge they contain. Its destruction is a warning: all we have is transient.”--Alberto Manguel
+- [mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) Open-source memory backend for AI agents — REST API, MCP, OAuth, CLI, dashboard. One self-hosted service, every transport. Agents store decisions, share causal knowledge graphs, and retrieve context in 5ms — without cloud lock-in or API costs.
 - [m_flow](https://github.com/FlowElement-ai/m_flow) Retrieval through reasoning and association — M-flow operates like a cognitive memory system.
 - [graymatter](https://github.com/angelnicolasc/graymatter) Three lines of code to give your AI agents persistent memory and cut token usage by 90%.
 - [sirchmunk](https://github.com/modelscope/sirchmunk)  从原始数据到自我进化的智能，实时进行。
@@ -527,11 +530,14 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/junhoyeo/tokscale top-style TUI for monitoring AI coding agent sessions
 - https://github.com/MrQianjinsi/agentic-metric A local-only monitoring tool for AI coding agents.
 - https://github.com/graykode/abtop Like htop, but for AI coding agents. Monitor Claude Code & Codex CLI sessions, tokens, context window, rate limits, and ports in real-time.
-
+- https://github.com/Dicklesworthstone/coding_agent_session_search Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
 ## Common-Agent
 - https://github.com/agentsmd/agents.md
 - [agentic-stack](https://github.com/codejunkie99/agentic-stack)
+
 ## Skill
+- https://github.com/Teaonly/SKILL.mk SKILL.mk — A Makefile-Format SKILL Document
+- https://github.com/ciembor/agent-rules-books AGENTS.md rules / skills for Codex, Cursor, Claude Code, distilled from classic software engineering books about refactoring, architecture, DDD and code quality.
 - https://github.com/davidliuk/graph-of-skills Dependency-Aware Structural Retrieval for Massive Agent Skills
 - https://github.com/alchaincyf/x-mentor-skill 女娲的第一个「非人类」作品。不是蒸馏一个人，是蒸馏一个领域。
 - [总结了最近 X 上爆火的 26 个 SKILL](https://x.com/jinchenma_ai/status/2041422880404328851)
@@ -614,6 +620,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/open-gitagent/gitagent
 
 ## Evolving
+- [autocontext](https://github.com/greyhaven-ai/autocontext) a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any task
 - [dspy-agent-skills](https://github.com/intertwine/dspy-agent-skills) Production-grade DSPy 3.2.x agent skills + validated end-to-end examples for Claude Code and Codex CLI — fundamentals, evaluation, GEPA, BetterTogether, and RLM.
 - [EvoForge](https://github.com/haizelabs/EvoForge)EvoForge: Evolving Agent Harness Populations
 - [SkillClaw](https://github.com/AMAP-ML/SkillClaw) Let Skills Evolve Collectively with Agentic Evolver
@@ -649,6 +656,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [termcanvas](https://github.com/blueberrycongee/termcanvas/) An infinite canvas desktop app for visually managing terminals
 - [desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui/) CC GUI 客户端（专为开发者打造的VibeCoding平台）
 - [nezha](https://github.com/hanshuaikang/nezha) Run multiple AI coding agents across projects (Claude Code and Codex)
+- [AITerm](https://github.com/zzyong24/AITerm) AITerm 是一款基于 Electron + Vue 3 构建的多终端管理器，将终端、代码编辑器、Git 操作和文件浏览整合进一个工作区。支持跨端状态同步，重启后自动还原终端会话和编辑器状态。
 - [TermHive](https://github.com/0x0funky/TermHive) The human-driven multi-agent dashboard.
 - [Vibe99](https://github.com/NekoApocalypse/Vibe99) Multi-agent terminal app
 - [paseo](https://github.com/getpaseo/paseo) One interface for all your Claude Code, Codex and OpenCode agents.
@@ -805,6 +813,10 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [CORAL](https://github.com/Human-Agent-Society/CORAL) CORAL 是一个强大而轻量级的基础设施，用于多智能体自主进化，专为自主研究而构建。
 - [jcode](https://github.com/1jehuang/jcode) Coding Agent Harness
 - https://github.com/agnt-gg/agnt The Complete AI Agent Operating System
+- https://github.com/simstudioai/sim Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- https://github.com/anvie/evonic Evonic is an agentic AI framework for designing, building, and orchestrating intelligent agents from concept to production. It empowers you to define every aspect of an agent — its model, tools, knowledge base, channels, and skills — and compose them into multi-agent systems that operate autonomously across distributed environments.
+- https://github.com/antiv/mate Production-ready multi-agent orchestration engine built on Google ADK. Database-driven agent config, 50+ LLM providers, MCP protocol, persistent memory, web dashboard, RBAC.
+
 ## Platform
 - [magic](https://github.com/dtyq/magic) Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
 - https://github.com/FullAgent/fulling Fulling is an AI-powered Full-stack Engineer Agent. Built with Next.js, Claude, shadcn/ui, and PostgreSQL. Use kubernetes as infra.
@@ -969,6 +981,8 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [Agentshire](https://github.com/Agentshire/Agentshire/) 为 AI Agent 提供稳定、可复用、可观测的代码上下文基础设施
 - [CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants.
 - https://github.com/zilliztech/claude-context
+- https://github.com/colbymchenry/codegraph Supercharge Claude Code with Semantic Code Intelligence
+- https://github.com/coffeejones/gitvision 对任何 GitHub 仓库进行结构分析。找出存在风险、重复或未经测试的代码。
 
 ## Doc
 - https://github.com/YishenTu/claudian An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
@@ -1019,6 +1033,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [pal](https://github.com/agno-agi/pal) Pal is a Personal Agent that Learns how you work by building a compounding knowledge base
 - [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) Agentic AI Infrastructure for magnifying HUMAN capabilities.
 - [graphify](https://github.com/safishamsi/graphify) 一个面向 AI 编码助手的技能。 在 Claude Code、Codex、OpenCode 或 OpenClaw 中输入 /graphify，它会读取你的文件、构建知识图谱，并把原本不明显的结构关系还给你。更快理解代码库，找到架构决策背后的“为什么”。
+- [graphify-dotnet](https://github.com/elbruno/graphify-dotnet) A .NET 10 port of graphify - AI knowledge graph builder for codebases using GitHub Copilot SDK and Microsoft.Extensions.AI
 - [obsidian_vault_pipeline](https://github.com/fakechris/obsidian_vault_pipeline) A automatic pipeline that processing obsidian vault by llm from pinbord, obsidian Clipper etc.
 - [Thoth](https://github.com/siddsachar/Thoth) Thoth is a local-first AI assistant built for personal AI sovereignty 
 - [memex](https://github.com/memex-lab/memex) A local-first, AI-native personal knowledge management app built with Flutter. Capture thoughts through text, photos, and voice
@@ -1037,6 +1052,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - https://github.com/inngest/inngest
  
 ## AI-UI
+- https://github.com/maxbogo/awesome-ai-tools-for-ui Curated list of awesome AI tools to build beautiful UI/UX.
 - https://github.com/CopilotKit/CopilotKit
 - https://github.com/TranHoaiHung/figma-ui-mcp use Claude (or any MCP client) to draw UI directly in Figma, and read existing designs back as structured data or code.
 - https://github.com/BIT-DataLab/Edit-Banana
@@ -1051,6 +1067,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - https://github.com/vidiptvashist/UX2UI-Image-to-Code-Generator-Modifier
 - https://github.com/fake-skate/html2uuitk unity
 - https://github.com/StarrDream/HTML-to-UGUI-Baker unity
+- https://github.com/bobbyz1x2c3/layer-designer/ 将 UI 设计拆解为可独立使用的透明图层，支持从需求到交付的完整工作流。
  
 ## WEB-UI
 - https://saaslandingpage.com/
@@ -1139,6 +1156,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - https://github.com/wu-yc/LabClaw LabClaw – Operating Layer for LabOS (Stanford-Princeton AI Co-Scientists
 - https://github.com/23Star/xianyu-super-butler 闲鱼超级管家是在 xianyu-auto-reply 基础上的二次开发版本，保留了原项目的所有核心功能，并对前端 UI 进行了全面重构，带来更加现代化、专业化的使用体验。
 - https://github.com/cosmicstack-labs/mercury-agent
+- [openagentd](https://github.com/lthoangg/openagentd) Your on-machine multi-agent system. A long-running local service with a web cockpit, persistent memory, and a team of agents that coordinate to get real work done
 
 ## Visual-Enhance
 - https://github.com/nicobailon/visual-explainer
@@ -1201,8 +1219,12 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 ## API-Transit
 - https://proxycc.cc/ 中转站导航
 - https://relaypulse.top/ AI中转站导航
-- https://www.helpaio.com/transit AI 中转站评测
+- https://www.helpaio.com/transit AI 中转站导航
+- https://github.com/peter123023/awesome-claude-api 收集和整理的可靠Claude中转API资源列表，帮助开发者快速找到稳定、高性价比的Claude API服务
 - https://iffs.cn/ 模型照妖镜
+- https://toby-bridges.github.io/api-relay-audit/ AI API 中转站安全审计
+- https://cctest.ai/zh 大模型检测
+- https://hvoy.ai/ 挑选靠谱的中转站
 - https://ai.17nas.com/tools/pricing/
 - https://subrouter.ai/models
 - https://www.univibe.cc/
@@ -1229,6 +1251,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - https://github.com/cytostack/openwolf Sharper context. Fewer tokens. Open-source middleware for Claude Code.
 - https://github.com/chanreyes042-cyber/ClawRouter Route requests to the most cost-effective model with ClawRouter—one wallet, over 30 models, no API keys needed
 - [Caveman](https://github.com/JuliusBrussee/caveman) why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+- https://github.com/mksglu/context-mode Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
 
 
 ## Feishu
@@ -1263,6 +1286,8 @@ m
 - https://github.com/happier-dev/happier Open-source mobile, web, and desktop companion for AI coding agents
 - https://github.com/rohitg00/tailclaude
 - https://github.com/JessyTsui/Claude-Code-Remote
+- https://github.com/Core-Mate/open-gui
+- https://github.com/siteboon/claudecodeui 您可以使用本地或远程方式随时随地查看您的进行中的项目和会话
 
 ## Fast-Search
 - [fff](https://github.com/dmtrKovalenko/fff.nvim?) The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
@@ -1287,3 +1312,21 @@ m
 ## RLM
 - https://github.com/alexzhang13/rlm General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.
 - https://github.com/yologdev/yoagent yoagent is a simple, effective agent loop with tool execution and event streaming in Rust.
+
+## Media Engine
+- [phantom-motion](https://github.com/pixelxzen/phantom-motion) Phantom Motion 是一个极其硬核的交互式动态视觉叙事生成器。
+
+## Live2d
+- https://github.com/Open-LLM-VTuber/Open-LLM-VTuber Open-LLM-VTuber 是一款独特的语音交互 AI 伴侣，它不仅支持实时语音对话和视觉感知，还配备了生动的 Live2D 形象。所有功能都可以在你的电脑上完全离线运行！
+
+## Verison-Control
+- https://git-truck.github.io/git-truck/GitTruckTeaser Git Truck allows you to get an understanding of how your repository is structured, where there has been the most activity at different points in time, and who worked on which parts of the code base.
+- https://github.com/Chronos778/git-rewind An AI-powered CLI tool that instantly tells you where you left off in your Git repository.
+
+## Database-AI-Service
+- https://github.com/StarRocks/mcp-server-starrocks
+- https://github.com/googleapis/mcp-toolbox MCP Toolbox for Databases is an open source MCP server for databases.
+- https://github.com/mindsdb/mindsdb AI Data Vault - A query engine for AI Agents to securely query data from any datasource
+
+## AI-Backend 
+- https://github.com/InsForge/InsForge InsForge is a backend development platform built for AI coding agents and AI code editors.

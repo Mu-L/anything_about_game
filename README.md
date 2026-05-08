@@ -5209,6 +5209,7 @@ Showing off the power of shader properties in Unity
 - [xasset](https://github.com/xasset/xasset) Fast & powerful, asset system for unity. 
 - [YooAsset](https://github.com/tuyoogame/YooAsset) 途游 unity3d resource system
 - [WooAsset](https://github.com/OnClick9927/WooAsset)
+- [YYAsset](https://github.com/djswzw/YYAsset)
 - [AssetBundleLoadManager](https://github.com/TonyTang1990/AssetBundleLoadManager)
 - [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager) Yet another asset bundle manager for Unity.
 - [unity-addressable-importer](https://github.com/favoyang/unity-addressable-importer) A rule based addressable asset importer 

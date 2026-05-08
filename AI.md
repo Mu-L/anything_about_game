@@ -579,6 +579,8 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/skillsgate/skillsgate
 - https://github.com/Railly/agentfiles Discover, organize, and edit AI coding agent skills across Claude Code, Cursor, Codex, Windsurf, and more, from inside Obsidian.
 - https://github.com/Karanjot786/agent-skills-cli Install skills from the world's largest marketplace and sync them to 45 AI agents including Cursor, Claude Code, GitHub Copilot, Windsurf, Cline, Gemini CLI, Zed, and more — all with a single command.
+- https://github.com/miniLV/Plexus About
+一键配置各类 AI Agent 工具的 MCP、Skills 和规则；
 
 ## AI-Coding-Agent 
 - https://www.codebuff.com/
@@ -615,6 +617,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/GumbyEnder/hermes-kanban
 - https://github.com/EKKOLearnAI/hermes-web-ui
 - https://github.com/Cranot/super-hermes
+
 ## Git-Agent
 - https://github.com/open-gitagent/gitclaw A universal git-native AI agent framework. Your agent lives inside a git repo — identity, rules, memory, tools, and skills are all version-controlled files.
 - https://github.com/open-gitagent/gitagent
@@ -652,6 +655,47 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/wquguru/harness-books Claude Code 设计指南 Claude Code 和 Codex 的 Harness 设计哲学
 - [模型不是关键，Harness 才是](https://mp.weixin.qq.com/s/sVGeofV9uTgvhgR44q8pNA)
 
+## Workflow
+- [prd-manager](https://github.com/wlzh/prd-manager) 一个辅助 Vibe Coding 的 Skill 工具，通过生成结构化的版本需求文档，来指导 AI 进行 Coding ，提升 Coding 的准确性。
+- https://github.com/clawplays/ospec Document-driven AI development for AI coding assistants.
+- https://github.com/catlog22/Claude-Code-Workflow JSON-driven multi-agent cadence-team development framework with intelligent CLI orchestration (Gemini/Qwen/Codex), context-first architecture, and automated workflow execution
+- https://github.com/rohitg00/pro-workflow
+- https://github.com/liuzhengdongfortest/CodeStable 厌倦了 OpenSpec 的草台、Oh-My-OpenAgent 的过度设计、Superpowers 的散装——我从 0 写了一套简单轻巧、围绕人在环的 AI Harness。
+- https://github.com/mindfold-ai/Trellis 给 AI 立规矩的开源框架
+- https://github.com/Gentleman-Programming/gentle-ai
+- https://github.com/tw93/waza Engineering habits you already know, turned into skills Claude can run.
+- https://github.com/tobihagemann/turbo A composable dev process for Claude Code, packaged as modular skills. Each skill encodes a dev workflow so you can run it instead of prompting from scratch. Battle-tested with the Opus model.
+- https://github.com/fabro-sh/fabro The open source dark software factory for expert engineers.
+- https://github.com/GuDaStudio/commands 基于RPI和有效上下文理论，让Claude Code一次只专注于一件事
+- https://github.com/henrydiaosi/AI-framework AI 协作开发文档体系 / AI Collaboration Documentation System
+- https://zhuanlan.zhihu.com/p/2016213084323217904 Zero-Doc Spec Coding：极简落地指南 
+- https://zhuanlan.zhihu.com/p/2018062431721627681 在智能体优先的世界中发挥 Codex 的力量 
+- https://github.com/specstoryai/getspecstory Install our local first extensions for your favorite AI IDE or Terminal Agent. Sync your conversations to the cloud. File issues and requests.
+- https://github.com/oracle/agent-spec Open Agent Spec (Agent Spec) is a framework-agnostic declarative language for defining agentic systems. It defines building blocks for standalone agents and structured agentic workflows as well as common ways of composing them into multi-agent systems.
+- https://github.com/acnlabs/MetaSpec About Meta-specification framework for AI Agents to generate Spec-driven X toolkits automatically.
+- https://github.com/gotalab/cc-sdd 
+- https://github.com/yibie/SPEC-AGENTS.md This project is inspired by Spec-kit, OpenSpec, and Stack Workflow. It combines the advantages of spec-driven development and phased development. With a small amount of configuration, it helps everyday developers, especially in “vibe coding” sessions, improve the accuracy of AI execution, reduce repeated copy-pasting into the AI, and still enjoy the stability and convenience of mature software engineering workflows.
+- https://kiro.dev/docs/specs/concepts/
+- https://github.com/amaynez/kiro-style-sdd
+- https://github.com/steveyegge/beads
+- https://github.com/Fission-AI/OpenSpec
+- https://github.com/github/spec-kit
+- https://github.com/dcramer/dex
+- https://github.com/lidangzzz/OnlySpecs
+- [团队落地 AI 辅助编程和 AI Specs 实战](https://www.cnblogs.com/whuanle/p/19469026)
+- [认知重建：Speckit 用了三个月，我放弃了——走出工具很强但用不好的困境](https://www.bestblogs.dev/en/article/0f05763c)
+- [planning-with-files](https://github.com/OthmanAdi/planning-with-files)
+- [superpowers](https://github.com/obra/superpowers)
+- https://github.com/gsd-build/get-shit-done
+- https://github.com/subsy/ralph-tui
+- https://github.com/snwfdhmp/awesome-ralph
+- https://github.com/mikeyobrien/ralph-orchestrator
+- https://github.com/strands-agents/agent-sop
+- https://github.com/ClaytonFarr/ralph-playbook
+- https://github.com/kunchenguid/gnhf Before I go to bed, I tell my agents: good night, have fun
+- https://github.com/mindfold-ai/Trellis
+- https://github.com/EveryInc/compound-engineering-plugin/
+
 ## Parallel Agent Runners
 - [termcanvas](https://github.com/blueberrycongee/termcanvas/) An infinite canvas desktop app for visually managing terminals
 - [desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui/) CC GUI 客户端（专为开发者打造的VibeCoding平台）
@@ -672,7 +716,6 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - https://air.dev/
 - https://psmux.pages.dev/
 - https://github.com/mkurman/cmux-windows
-- [companion](https://github.com/the-vibe-company/companion) Web & Mobile UI for Claude Code & Codex . Launch sessions, stream responses, approve tools. All from your browser / mobile
 - [Codeg](https://github.com/xintaofei/codeg) Codeg (Code Generation) is an enterprise-grade multi-agent coding workspace. It unifies local AI coding agents (Claude Code, Codex CLI, OpenCode, Gemini CLI, OpenClaw, etc.) in one desktop app with session aggregation, parallel git worktree development, MCP/Skills management, and integrated Git/file/terminal workflows.
 - https://github.com/jazzyalex/agent-sessions Session browser + Agent Cockpit + Analytics + Limits tracker for Codex CLI, Claude Code, OpenCode, Gemini CLI, Factory Droid , GitHub Copilot CLI & OpenClaw. Search/filter ALL past sessions, archive sessions, resume instantly, see rate limits in real-time. Native macOS app.
 - https://github.com/jakemor/kanna A beautiful web UI for the Claude Code & Codex CLIs
@@ -719,8 +762,10 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for managing AI coding agents.
 - [vibe-tree](https://github.com/sahithvibudhi/vibe-tree) - Vibe code with Claude in parallel git worktrees.
 - [vibecraft](https://github.com/rayzhudev/vibecraft) - An RTS-style workspace for managing AI coding agents.
+- [EnsoAI](https://github.com/j3n5en/EnsoAI) Unleash parallel intelligence within a single project.
 
 ## Multi-Agent Swarms
+- [claw-empire](https://github.com/GreenSheep01201/claw-empire) Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents
 - [antfarm](https://github.com/snarktank/antfarm) - Build your agent team in OpenClaw with one command.
 - [automata](https://github.com/sentientwave/automata) - Agent swarming organization system.
 - [claude-flow](https://github.com/ruvnet/claude-flow) - Deploy multi-agent swarms with coordinated workflows.
@@ -737,8 +782,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [opengoat](https://github.com/marian2js/opengoat) - Build AI autonomous organizations of OpenClaw agents.
 - [orc](https://github.com/spencermarx/orc) - Hierarchical multi-agent orchestrator that coordinates AI coding agents through planning, task decomposition, isolated worktrees, and review pipelines.
 - [ORCH](https://github.com/oxgeneral/ORCH) - CLI runtime for managing Claude Code, Codex, and Cursor as typed agent teams with state machine, goals, and TUI.
-- [paperclip](https://github.com/paperclipai/paperclip) - Orchestration for zero-human companies.
-- [companies](https://github.com/paperclipai/companies) Deploy an entire AI workforce in minutes — 16 pre-built companies, 440+ specialized agents, and 500+ battle-tested skills. From security auditors to game studios, from scientific research labs to full-stack dev shops. Plug in, power up, ship.
+
 - [shire](https://github.com/victor36max/shire) - Persistent workspaces for AI agent teams with inter-agent mailboxes, shared drive, and full context preservation. Supports Claude Code, OpenCode, Pi Agent and more.
 - [skillfold](https://github.com/byronxlg/skillfold) - Configuration language and compiler for multi-agent AI pipelines. Compiles YAML config into agent skills for Claude Code, Cursor, Codex, Copilot, Gemini CLI, and Windsurf.
 - [swarm-protocol](https://github.com/phuryn/swarm-protocol) - Headless coordination layer exposed as MCP server: claim work, detect file conflicts, heartbeat, and hand off tasks across agent sessions.
@@ -758,7 +802,6 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - https://github.com/GoogleCloudPlatform/scion Run multiple agents in parallel — each in its own container, with its own workspace, collaborating on your code or project files simultaneously.
 - https://github.com/SethGammon/Citadel Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.
 - https://github.com/kaanozhan/Frame Platform for agentic - vibecoders who use claude code and codex cli
-- https://github.com/777genius/claude_agent_teams_ui You're the CTO, agents are your team. They handle tasks themselves, message each other, review each other's code. You just look at the kanban board and drink coffee.
 - https://github.com/cline/kanban Launch a local web app and run CLI agents in parallel
 - https://github.com/BradGroux/veritas-kanban Local-first task management and AI agent orchestration platform.
 - https://github.com/0xNyk/lacp Local Agent Control Plane (LACP): Claude/Codex control-plane for memory, retrieval gates, and telemetry
@@ -770,52 +813,43 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [xurl](https://github.com/Xuanwo/xurl) xURL: Client for AI Agents URLs
 - [octogent](https://github.com/hesamsheikh/octogent) A thin orchestration dashboard over Claude Code for managing context, automation, and developer headspace. You need tentacles
 - [octoally](https://github.com/ai-genius-automations/octoally) The dashboard for Claude Code & OpenAI Codex. Launch, monitor, and manage AI coding sessions with RuFlo multi-agent orchestration — all from one place.
-- [cc-connect](https://github.com/chenhg5/cc-connect) Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms
+
 - [agtx](https://github.com/fynnfluegge/agtx) Multi-session AI coding terminal manager - autonomously orchestrate Claude, Codex, Gemini, OpenCode, Cursor
 - [MassGen](https://github.com/massgen/MassGen) MassGen is an open-source multi-agent scaling system that runs in your terminal, autonomously orchestrating frontier models and agents to collaborate, reason, and produce high-quality results. | Join us on Discord: discord.massgen.ai
-
-- [codefire-app](https://github.com/websitebutlers/codefire-app)
 - [cobweb](https://github.com/321barney/cobweb) The orchestration layer that treats agents like a project — critical path, earned value, budget gates, stage gates, built in
 - https://github.com/mikaelj/fuska/
-- https://github.com/langchain-ai/openwork
-- https://github.com/DeepMyst/Mysti
-- https://github.com/moazbuilds/CodeMachine-CLI
-- https://github.com/Gentleman-Programming/agent-teams-lite
-- https://github.com/fengshao1227/ccg-workflow Claude + Codex + Gemini 多模型协作系统
-- https://github.com/liuzhengdongfortest/CodeStable 厌倦了 OpenSpec 的草台、Oh-My-OpenAgent 的过度设计、Superpowers 的散装——我从 0 写了一套简单轻巧、围绕人在环的 AI Harness。
-- https://github.com/tw93/waza Engineering habits you already know, turned into skills Claude can run.
-- https://github.com/clawplays/ospec Document-driven AI development for AI coding assistants.
-- https://github.com/catlog22/Claude-Code-Workflow JSON-driven multi-agent cadence-team development framework with intelligent CLI orchestration (Gemini/Qwen/Codex), context-first architecture, and automated workflow execution
-- https://github.com/rohitg00/pro-workflow
-- https://github.com/mindfold-ai/Trellis 给 AI 立规矩的开源框架
-- https://github.com/tobihagemann/turbo A composable dev process for Claude Code, packaged as modular skills. Each skill encodes a dev workflow so you can run it instead of prompting from scratch. Battle-tested with the Opus model.
-- https://github.com/fabro-sh/fabro The open source dark software factory for expert engineers.
+- https://github.com/langchain-ai/openwork A desktop interface for deepagentsjs — an opinionated harness for building deep agents with filesystem capabilities planning, and subagent delegation.
+- https://github.com/DeepMyst/Mysti Mysti - Your AI Coding Team Working Together
 - https://github.com/hotjp/long-run-agent LRA - AI Agent长任务超稳定执行框架 ⚡ 轻量 | pip一键安装｜突破上下文限制 📌 7种状态管理 
-- https://github.com/j3n5en/EnsoAI
-- https://github.com/sentient-agi/ROMA
-- https://github.com/camel-ai/camel
-- https://github.com/kyegomez/swarms
-- https://github.com/nyldn/claude-octopus
-- https://github.com/covibes/zeroshot
+- https://github.com/sentient-agi/ROMA ROMA: Recursive Open Meta-Agents
+- https://github.com/moazbuilds/CodeMachine-CLI CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows
+- https://github.com/camel-ai/camel CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents.
+- https://github.com/kyegomez/swarms The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework.
+- https://github.com/nyldn/claude-octopus Surface AI blindspots before you ship. Put up to 8 AI models on every research, design or coding task.
+- https://github.com/covibes/zeroshot Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Supports Claude Code, OpenAI Codex, OpenCode, and Gemini CLI.
 - https://github.com/talkcody/talkcody
-- https://github.com/GuDaStudio/commands
-- https://github.com/pedramamini/Maestro
-- https://github.com/zhukunpenglinyutong/codemoss
-- https://github.com/ChesterRa/cccc
-- https://github.com/vibeeval/vibecosystem
+- https://github.com/vibeeval/vibecosystem AI software team for Claude Code - 138 agents, 295 skills, 73 hooks. Self-learning, multi-agent swarm, autonomous skill evolution.
 - https://github.com/sequenzia/agent-alchemy Agent Alchemy is a curated collection of plugins, apps, and extensions designed to elevate your agentic engineering workflows. Built for Claude Code and other AI coding agents, these tools help developers work smarter and ship faster.
 - [MASFactory](https://github.com/BUPT-GAMMA/MASFactory) MASFactory is a graph-centric framework for orchestrating Multi-Agent Systems with Vibe Graphing:
 
-### Multi-Agent-Best
-- https://github.com/777genius/claude_agent_teams_ui You're the CTO, agents are your team. They handle tasks themselves, message each other, review each other's code. You just look at the kanban board and drink coffee.
-- https://github.com/ruvnet/ruflo The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+
+
+## Multi-Agent-Best
+- [paperclip](https://github.com/paperclipai/paperclip) - Orchestration for zero-human companies.
+- [companies](https://github.com/paperclipai/companies) Deploy an entire AI workforce in minutes — 16 pre-built companies, 440+ specialized agents, and 500+ battle-tested skills. From security auditors to game studios, from scientific research labs to full-stack dev shops. Plug in, power up, ship.
+- [cccc](https://github.com/ChesterRa/cccc)  Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow
+- [Maestro](https://github.com/RunMaestro/Maestro) Agent Orchestration Command Center
+- [cc-connect](https://github.com/chenhg5/cc-connect) Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms
+- [claude_agent_teams_ui](https://github.com/777genius/claude_agent_teams_ui) You're the CTO, agents are your team. They handle tasks themselves, message each other, review each other's code. You just look at the kanban board and drink coffee.
+- [ruflo](https://github.com/ruvnet/ruflo) The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 - [openagents](https://github.com/openagents-org/openagents) One workspace where all your AI agents collaborate. Open source. No account required.
 - [CORAL](https://github.com/Human-Agent-Society/CORAL) CORAL 是一个强大而轻量级的基础设施，用于多智能体自主进化，专为自主研究而构建。
 - [jcode](https://github.com/1jehuang/jcode) Coding Agent Harness
-- https://github.com/agnt-gg/agnt The Complete AI Agent Operating System
+- [agnt](https://github.com/agnt-gg/agnt) The Complete AI Agent Operating System
 - https://github.com/simstudioai/sim Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
-- https://github.com/anvie/evonic Evonic is an agentic AI framework for designing, building, and orchestrating intelligent agents from concept to production. It empowers you to define every aspect of an agent — its model, tools, knowledge base, channels, and skills — and compose them into multi-agent systems that operate autonomously across distributed environments.
-- https://github.com/antiv/mate Production-ready multi-agent orchestration engine built on Google ADK. Database-driven agent config, 50+ LLM providers, MCP protocol, persistent memory, web dashboard, RBAC.
+- [evonic](https://github.com/anvie/evonic) Evonic is an agentic AI framework for designing, building, and orchestrating intelligent agents from concept to production. It empowers you to define every aspect of an agent — its model, tools, knowledge base, channels, and skills — and compose them into multi-agent systems that operate autonomously across distributed environments.
+- [mate](https://github.com/antiv/mate) Production-ready multi-agent orchestration engine built on Google ADK. Database-driven agent config, 50+ LLM providers, MCP protocol, persistent memory, web dashboard, RBAC.
+- [zano](https://github.com/EryouHao/zano) Zano lets you spin up persistent AI agents that live in chat channels alongside your team. Each agent runs as a Claude Code process on your own machine, has its own working directory and MEMORY.md, and communicates over chat, DMs, threads, and a built-in task board 
 
 ## Platform
 - [magic](https://github.com/dtyq/magic) Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
@@ -828,35 +862,6 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 ## Ai-Studio
 - https://github.com/Lianues/AIStudioBuildCopy
  
-## Spec&&WorkFlow
-- https://github.com/henrydiaosi/AI-framework AI 协作开发文档体系 / AI Collaboration Documentation System
-- https://zhuanlan.zhihu.com/p/2016213084323217904 Zero-Doc Spec Coding：极简落地指南 - Mertens的文章 - 知乎
-- https://zhuanlan.zhihu.com/p/2018062431721627681 在智能体优先的世界中发挥 Codex 的力量 - 李明军的文章 - 知乎
-- https://github.com/specstoryai/getspecstory Install our local first extensions for your favorite AI IDE or Terminal Agent. Sync your conversations to the cloud. File issues and requests.
-- https://github.com/oracle/agent-spec Open Agent Spec (Agent Spec) is a framework-agnostic declarative language for defining agentic systems. It defines building blocks for standalone agents and structured agentic workflows as well as common ways of composing them into multi-agent systems.
-- https://github.com/acnlabs/MetaSpec About Meta-specification framework for AI Agents to generate Spec-driven X toolkits automatically.
-- https://github.com/gotalab/cc-sdd 
-- https://github.com/yibie/SPEC-AGENTS.md This project is inspired by Spec-kit, OpenSpec, and Stack Workflow. It combines the advantages of spec-driven development and phased development. With a small amount of configuration, it helps everyday developers, especially in “vibe coding” sessions, improve the accuracy of AI execution, reduce repeated copy-pasting into the AI, and still enjoy the stability and convenience of mature software engineering workflows.
-- https://kiro.dev/docs/specs/concepts/
-- https://github.com/amaynez/kiro-style-sdd
-- https://github.com/steveyegge/beads
-- https://github.com/Fission-AI/OpenSpec
-- https://github.com/github/spec-kit
-- https://github.com/dcramer/dex
-- https://github.com/lidangzzz/OnlySpecs
-- [团队落地 AI 辅助编程和 AI Specs 实战](https://www.cnblogs.com/whuanle/p/19469026)
-- [认知重建：Speckit 用了三个月，我放弃了——走出工具很强但用不好的困境](https://www.bestblogs.dev/en/article/0f05763c)
-- [planning-with-files](https://github.com/OthmanAdi/planning-with-files)
-- [superpowers](https://github.com/obra/superpowers)
-- https://github.com/gsd-build/get-shit-done
-- https://github.com/subsy/ralph-tui
-- https://github.com/snwfdhmp/awesome-ralph
-- https://github.com/mikeyobrien/ralph-orchestrator
-- https://github.com/strands-agents/agent-sop
-- https://github.com/ClaytonFarr/ralph-playbook
-- https://github.com/kunchenguid/gnhf Before I go to bed, I tell my agents: good night, have fun
-- https://github.com/mindfold-ai/Trellis
-- https://github.com/EveryInc/compound-engineering-plugin/
 
 ## LLM
 - https://github.com/liguodongiot/llm-resource
@@ -983,6 +988,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - https://github.com/zilliztech/claude-context
 - https://github.com/colbymchenry/codegraph Supercharge Claude Code with Semantic Code Intelligence
 - https://github.com/coffeejones/gitvision 对任何 GitHub 仓库进行结构分析。找出存在风险、重复或未经测试的代码。
+- [codefire-app](https://github.com/websitebutlers/codefire-app) Persistent memory for AI coding agents
 
 ## Doc
 - https://github.com/YishenTu/claudian An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
@@ -1050,7 +1056,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 
 ### WorkFlow
 - https://github.com/inngest/inngest
- 
+
 ## AI-UI
 - https://github.com/maxbogo/awesome-ai-tools-for-ui Curated list of awesome AI tools to build beautiful UI/UX.
 - https://github.com/CopilotKit/CopilotKit
@@ -1072,7 +1078,6 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 ## WEB-UI
 - https://saaslandingpage.com/
 - https://www.pencil.dev/
-
 
 ## OpenClaw
 - https://github.com/VoltAgent/awesome-openclaw-skills
@@ -1096,7 +1101,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - https://github.com/Kohei-Wada/taskdog A task management system with CLI/TUI interfaces and REST API server, featuring time tracking, schedule optimization, and beautiful terminal output.
 - https://github.com/KwokKwok/agent-task 可以让 OpenClaw 能异步的、产出结构化的东西（比如可以按需产出 markdown 报告、HTML 页面、音频播客等），并有一个 直观的 WebUI 能方便我查看。
 - https://github.com/AndyMik90/Aperant
-- https://github.com/multica-ai/multica Open-source platform that turns coding agents into real teammates.
+- [multica](https://github.com/multica-ai/multica) Open-source platform that turns coding agents into real teammates.
 - https://github.com/abhi1693/openclaw-mission-control
 - https://github.com/crshdn/mission-control he world's first Autonomous Product Engine (APE): AI agents research your market, generate features, and ship code as PRs. Convoy mode, crash recovery, cost tracking, 80+ API endpoints. Self-hosted via OpenClaw Gateway.
 - https://github.com/builderz-labs/mission-control
@@ -1225,6 +1230,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - https://toby-bridges.github.io/api-relay-audit/ AI API 中转站安全审计
 - https://cctest.ai/zh 大模型检测
 - https://hvoy.ai/ 挑选靠谱的中转站
+- https://derouter.network/ 区块链中转
 - https://ai.17nas.com/tools/pricing/
 - https://subrouter.ai/models
 - https://www.univibe.cc/
@@ -1288,7 +1294,7 @@ m
 - https://github.com/JessyTsui/Claude-Code-Remote
 - https://github.com/Core-Mate/open-gui
 - https://github.com/siteboon/claudecodeui 您可以使用本地或远程方式随时随地查看您的进行中的项目和会话
-
+- [companion](https://github.com/the-vibe-company/companion) Web & Mobile UI for Claude Code & Codex . Launch sessions, stream responses, approve tools. All from your browser / mobile
 ## Fast-Search
 - [fff](https://github.com/dmtrKovalenko/fff.nvim?) The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 - [agrep](https://github.com/csehammad/agrep) Agent-first search: natural-language queries, domain-aware ranking, and JSONL output for code, legal, docs, and logs.
@@ -1303,11 +1309,20 @@ m
 - https://github.com/steipete/summarize
 
 ## Design
+- [awesome-design-skills](https://github.com/bergside/awesome-design-skills) List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
 - [huashu-design](https://github.com/alchaincyf/huashu-design) Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 - [open-codesign](https://github.com/OpenCoworkAI/open-codesign) Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.
 - [pen-design](https://github.com/nexu-io/open-design) Claude Design 的开源替代品。 本地优先、可部署到 Vercel、每一层都 BYOK —— 你机器上已经装好的 coding agent（Claude Code、Codex、Cursor Agent、Gemini CLI、OpenCode、Qwen）就是设计引擎，由 19 个可组合 Skills 和 71 套品牌级 Design System 驱动。
-## Medical 
-- https://github.com/FreedomIntelligence/Awesome-AI4Med
+- [impeccable](https://github.com/pbakaus/impeccable) The design language that makes your AI harness better at design
+- [styles.refero](https://styles.refero.design/) Design taste, extracted.
+- [neuform](https://neuform.ai/) Turn one prompt into web, mobile & design systems
+- [designmd](https://designmd.me/) Turn any website into a design system
+- [designmd](https://www.designmd.supply/) A supply of style guides, generated.
+- [getdesign](https://getdesign.md/) The first DESIGN.md collection in the ecosystem
+- [design-md-chrome](https://github.com/bergside/design-md-chrome) Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI
+
+## Medical  
+- https://github.com/FreedomIntelligence/Awesome-AI4Med 
 
 ## RLM
 - https://github.com/alexzhang13/rlm General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.
@@ -1330,3 +1345,9 @@ m
 
 ## AI-Backend 
 - https://github.com/InsForge/InsForge InsForge is a backend development platform built for AI coding agents and AI code editors.
+
+## VFS
+- https://www.strukto.ai/mirage
+
+## Teach
+- [aetherviz-master](https://github.com/andyhuo520/aetherviz-master) AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页

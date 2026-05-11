@@ -661,7 +661,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/catlog22/Claude-Code-Workflow JSON-driven multi-agent cadence-team development framework with intelligent CLI orchestration (Gemini/Qwen/Codex), context-first architecture, and automated workflow execution
 - https://github.com/rohitg00/pro-workflow
 - https://github.com/liuzhengdongfortest/CodeStable 厌倦了 OpenSpec 的草台、Oh-My-OpenAgent 的过度设计、Superpowers 的散装——我从 0 写了一套简单轻巧、围绕人在环的 AI Harness。
-- https://github.com/mindfold-ai/Trellis 给 AI 立规矩的开源框架
+- https://github.com/mindfold-ai/Trellis AI 编程 Harness，统一 11 个 AI coding 平台
 - https://github.com/Gentleman-Programming/gentle-ai
 - https://github.com/tw93/waza Engineering habits you already know, turned into skills Claude can run.
 - https://github.com/tobihagemann/turbo A composable dev process for Claude Code, packaged as modular skills. Each skill encodes a dev workflow so you can run it instead of prompting from scratch. Battle-tested with the Opus model.

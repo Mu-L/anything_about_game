@@ -1559,6 +1559,7 @@ Table of Contents
 - https://github.com/gindemit/unity-rlottie
 - https://github.com/gilzoide/unity-lottie-player
 - https://github.com/OpenVGLab/OmniLottie
+- https://github.com/SwaggyMacro/LottieViewConvert
 - https://github.com/leetful/u.movin
 - [SkiaForUnity](https://github.com/ammariqais/SkiaForUnity) Skia For Unity with skottie animations
 - https://github.com/wieslawsoltes/Svg.Skia
@@ -1901,6 +1902,7 @@ Table of Contents
 * [Snuggle](https://github.com/yretenai/Snuggle) WIP Unity AssetBundle Exporter
 * [GenshinStudio](https://github.com/Razmoth/GenshinStudio) Modded AssetStudio for Genshin Impact 
 * [AnimeStudio](https://github.com/Escartem/AnimeStudio) Updated AssetStudio, supports GI 5.6+, HSR 3.3+, ZZZ 2.0+, with improvements and new features (*ﾟ∀ﾟ*)
+* [ST3GG](https://github.com/elder-plinius/ST3GG) 水印
 #### Archive-Format
 - https://github.com/bilibili/UnityBVA
 - https://github.com/emperorofmars/stf-unity
@@ -2006,6 +2008,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [save-for-unity-complete](https://assetstore.unity.com/packages/tools/utilities/save-for-unity-complete-244507)
 - https://github.com/ChronosGames/DataTables
 - https://github.com/hadashiA/VKV
+- https://github.com/VyronLee/vFrame.VFS A virtual file system for Unity and .NET projects that unifies directory-based storage and .vpk package-based storage behind one API.
 ## IO
 - [肝了很久！一文了解操作系统 I/O ](https://mp.weixin.qq.com/s/lFfIFzyEsRdBXdXi7StLVg)
 - [IO 模型知多少](https://www.cnblogs.com/sheng-jie/p/how-much-you-know-about-io-models.html) 
@@ -2537,6 +2540,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 * matter - C++17/20 ECS implementation [github](https://github.com/Dreyri/matter) ![Dreyri/matter](https://img.shields.io/github/stars/Dreyri/matter.svg?style=flat&label=Star&maxAge=86400)
 
 #### C#
+- https://github.com/svermeulen/trecs A high-performance Entity Component System framework for Unity, designed for deterministic simulation, recording/playback, and Burst/Jobs integration.
 - [EasyCS](https://github.com/Watcher3056/EasyCS) EasyCS 是一个易于使用且灵活的 Unity 框架，采用数据驱动的实体与角色-组件方法。它将 Unity 的经典面向对象与强大的数据导向模式相结合，而无需强制进行完整的 ECS 范式转变或思维转变。更聪明地构建，而不是更费力
 - [Frent](https://github.com/itsBuggingMe/Frent) A high performance component oriented take on ECS.
 - [massive-ecs](https://github.com/nilpunch/massive-ecs) Prediction-rollback netcode has very stable nature, and is mainly used in fast paced online multiplayer games, such as Overwatch and Rocket League.
@@ -4520,6 +4524,7 @@ Showing off the power of shader properties in Unity
 - https://logins.github.io/graphics/2020/10/31/D3D12ComputeShaders.html
 - https://www.3dgep.com/learning-directx-12-4/#Compute_Shaders
 - https://github.com/Robert-K/gpu-particles
+- https://github.com/JohannHotzel/unified-solver
 - https://github.com/REDSIM/GPUParticleVolumes/
 - https://github.com/Ninjajie/Fusion
 - https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders
@@ -6441,7 +6446,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 ## Windows-Optimizer
 - https://github.com/Raphire/Win11Debloat
 - https://github.com/memstechtips/Winhance
- 
+- https://github.com/pranshuparmar/witr
 ## Interest is the best teacher 
 - https://github.com/alaskasquirrel/Chinese-Podcasts
 - https://youquhome.com/ 
